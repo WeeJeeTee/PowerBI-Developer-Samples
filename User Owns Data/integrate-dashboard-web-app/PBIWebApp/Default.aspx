@@ -31,7 +31,7 @@
 
     <hr class="stepHr" />
 
-    <!-- Get Dashboards -->
+    <!-- Get Dashboards  -->
     <div> 
         <asp:Panel ID="PanelDashboards" runat="server" Visible="true">
             <div>
